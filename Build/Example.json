@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Simple2D",
+"dataUrl": "Example.data.unityweb",
+"wasmCodeUrl": "Example.wasm.code.unityweb",
+"wasmFrameworkUrl": "Example.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
